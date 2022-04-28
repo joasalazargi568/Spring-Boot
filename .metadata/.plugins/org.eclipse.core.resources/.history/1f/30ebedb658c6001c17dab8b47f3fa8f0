@@ -1,0 +1,10 @@
+NotEmpty=El campo es requerido
+NotEmpty.usuario.nombre=El campo nombre es requerido
+NotEmpty.usuario.username=El campo username es obligatorio
+Email.usuario.email=El formato es inválido, falta el @
+pattern.usuario.identificador=Formato de la expresión regular incorrecto.
+IdentificadorRegex.usuario.identificador=Formato de la expresión regular inválido con anotaciones.
+Requerido.usuario.apellido=Apellido requerido con anotaciones.
+typeMismatch.java.lang.Integer=Debe ser un entero.
+typeMismatch.usuario.cuenta=Debe ser un entero en cuenta.
+typeMismatch.java.util.Date=Debe ser un entero.
